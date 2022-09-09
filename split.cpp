@@ -19,7 +19,7 @@ using namespace std;
 /* Add a prototype for a helper function here if you need */
 
 Node* evenOdd(Node*& in, Node*& odds, Node*& evens);
-// void odd(Node*& in, Node*& odds);
+
 
 void split(Node*& in, Node*& odds, Node*& evens)
 {
